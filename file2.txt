@@ -1,0 +1,5 @@
+nclude <stdio.h>
+int main(){
+printf ("Good morning folks");
+return 0;
+}
